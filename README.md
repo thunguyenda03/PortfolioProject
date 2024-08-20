@@ -6,12 +6,6 @@ This project aims to identify key factors that contribute to a successfult Airbn
 - Three pais of cities within the same regions were chosen: cities with high (New York City, London and Tokyo) versus low (San Diego, Amsterdam and Singapore)
 - For the purpose of this project, low listing cities are defined as cities with fewer than 30,000 listings while high listing ones have more than 30,000 listings, with the exception of Tokyo. 
 
-**Data Preprocessing**
-- Handled missing values and duplicated rows
-- Converted data types
-- Removed unique signs
-- Converted non-USD currencies to USD
-- Split data into training and test sets (80-20%)
 
 **Analytical Methods**
 
