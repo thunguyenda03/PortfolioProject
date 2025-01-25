@@ -1,3 +1,0 @@
-
-import pandas as pd
-sales = pd.read_csv("/content/drive/MyDrive/Walmart.csv")
