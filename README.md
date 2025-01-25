@@ -6,5 +6,5 @@
 
 - **[Project 3](./Project3)**: **[SQL]** This project focuses on analyzing COVID-19 data using a variety of SQL queries to explore different aspects of the pandemic's impact on global health.
 
-- **[Project 4](./Project 4)**: **[Machine Learning]** This project aims to predict Walmart's revenues using historical sales data and identify the most influential factors affecting sales. To achieve this, Machine Learning models like Random Forest and Decision Tree were initially employed, followed by Grid Search to fine-tune the hyperparameters for better accuracy.
+- **[Project 4](./Project4)**: **[Machine Learning]** This project aims to predict Walmart's revenues using historical sales data and identify the most influential factors affecting sales. To achieve this, Machine Learning models like Random Forest and Decision Tree were initially employed, followed by Grid Search to fine-tune the hyperparameters for better accuracy.
 
