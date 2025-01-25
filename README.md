@@ -1,6 +1,9 @@
 
-- **[Project 1](./Project1)**: This project identifies key factors contributing to successful Airbnb listings in high-listing cities, focusing on how multiple features impact listing success globally. The analysis helps hosts in low-listing cities improve visibility and attract more bookings. Key techniques used include Exploratory Data Analysis, Host Recommendations, Price Elasticity, Amenities Analysis, Discount Analysis, Multi Regression, Decision Tree, and Sentiment Text Analysis, providing actionable insights for similar regions.
+- **[Project 1](./Project1)**: **[Machine Learning]** his project identifies key factors contributing to successful Airbnb listings in high-listing cities, focusing on how multiple features impact listing success globally. The analysis helps hosts in low-listing cities improve visibility and attract more bookings. Key techniques used include Exploratory Data Analysis, Host Recommendations, Price Elasticity, Amenities Analysis, Discount Analysis, Multi Regression, Decision Tree, and Sentiment Text Analysis, providing actionable insights for similar regions.
 
 
-- **[Project 2](./Project2)**: This project identifies key factors contributing to a flight delay 
-- **[Project 3](./Project3)**: Description of Project 3.
+- **[Project 2](./Project2)**: **[Machine Learning]** This project's goal is to predict the likelihood of a flight being delayed based on factors like weather, flight tine, destination, etc, using Machine Learning technqiues, specifically Logistic Regression and Decision Tree. Then, to assess the performance of the models, cross validation was performed followed by a ROC curve. 
+
+- **[Project 3](./Project3)**: **[SQL]** This project focuses on analyzing COVID-19 data using a variety of SQL queries to explore different aspects of the pandemic's impact on global health.
+
+- **[Project 3](./Project3)**: **[Python]**
